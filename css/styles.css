@@ -1241,6 +1241,9 @@ padding: 6px 0px !important;
 border-radius: 5px;
 margin: 34px 10px;
 } 
+	.header .navbar{
+	margin: -15px
+	}
 
 }
 @media (min-width: 768px) and (max-width:880px){
